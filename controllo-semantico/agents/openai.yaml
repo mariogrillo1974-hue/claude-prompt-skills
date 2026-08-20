@@ -1,0 +1,6 @@
+interface:
+  display_name: Protocollo Semantico Operativo
+  short_description: 29 controlli, red-team, Drive/Wiki e non regressione.
+  brand_color: '#166534'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
